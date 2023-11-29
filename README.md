@@ -1,1 +1,1 @@
-# Large Kanguage Models (LLMs) System Design (2023 Edition)
+# Large Language Models (LLMs) System Design (2023 Edition)
